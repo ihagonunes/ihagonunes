@@ -137,15 +137,6 @@ That's probably why I naturally gravitate toward projects that sit between **sof
 
 ---
 
-## GitHub, in numbers
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ihagonunes&show_icons=true&hide_border=true&rank_icon=github" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ihagonunes&layout=compact&hide_border=true" height="170"/>
-</p>
-
----
-
 ## Currently building my way through
 
 ```text
